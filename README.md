@@ -23,9 +23,9 @@ This is a simple but powerful website that launch a say no to drug awareness cam
 
 
 ### Group Roles 
- Adesina Mariam- Content Writer and quality Checker.  
- Ibrahim Lukman- HTML Lead 
- Oyedoyin Samuel- CSS Designer 
+1. IBRAHIM LUKMAN   --->  CSS LEAD
+2. OYEDOYIN SAMUEL  --->  HTML LEAD
+3. ADESINA MARIAM   --->  CONTENT WRITER AND QUALITY CHECKER
  
 
 ### Deliverables  
