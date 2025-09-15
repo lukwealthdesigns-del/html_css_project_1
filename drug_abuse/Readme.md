@@ -21,6 +21,6 @@
 ### Contact Form
 ![Contact Form](<https://github.com/user-attachments/assets/a3509694-e330-4d77-876a-f57a28d6b32a>)
 ### Footer
-![Footer](<github.com/user-attachments/assets/08285f2f-083f-4108-bb6f-764a40e2effa>)
+![Footer](<https://github.com/user-attachments/assets/08285f2f-083f-4108-bb6f-764a40e2effa>)
 
 
