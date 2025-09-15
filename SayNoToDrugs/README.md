@@ -65,9 +65,11 @@ Your group must build a single-page website that includes the following sections
 ![Footer](<https://github.com/user-attachments/assets/08285f2f-083f-4108-bb6f-764a40e2effa>)
 
 
-## TEAM MEMBERS
-IBRAHIM LUKMAN --->
-OYEDOYIN SAMUEL --->
-ADESINA MARIAM --->
+## TEAM MEMBERS & ROLES
+1. IBRAHIM LUKMAN   --->  CSS LEAD
+2. OYEDOYIN SAMUEL  --->  HTML LEAD
+3. ADESINA MARIAM   --->  CONTENT WRITER AND QUALITY CHECKER
+
+
 ### HOW TO VIEW THE PROJECT
 -----> This project can be viewed locally on browsers.
