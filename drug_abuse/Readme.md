@@ -13,10 +13,7 @@
 ![Alternatives](<https://github.com/user-attachments/assets/b3cb7795-bb88-4f84-932a-22e7b05ec634>)
 
 ### Testimonial
-![Footer](<github.com/user-attachments/assets/08285f2f-083f-4108-bb6f-764a40e2effa>)
-
-### Footer
-![Testimonial](<github.com/user-attachments/assets/535eb3a0-99ac-445c-86e2-d59b12034363>)
+![Testimional](<https://github.com/user-attachments/assets/535eb3a0-99ac-445c-86e2-d59b12034363>)
 
 ### Contact Form
 ![Contact Form](<https://github.com/user-attachments/assets/a3509694-e330-4d77-876a-f57a28d6b32a>)
