@@ -1,5 +1,5 @@
-=========== PROJECT TITLE ============
-<-------- FOODIE RESTAURANT --------->
+# PROJECT TITLE
+## FOODIE RESTAURANT
 
 
 
