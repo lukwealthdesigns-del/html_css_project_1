@@ -1,11 +1,11 @@
 =========== PROJECT TITLE ============
-=******** FOODIE RESTAURANT *********=
+<-------- FOODIE RESTAURANT --------->
 
 
 
 =========== PROJECT DESCRIPTION ============
-==This project is a replica of a static design image for foodie website, this replica has been developed and turned into a working website using HTML and CSS only.
-This project was carried out by the whole team, each contributing their level of creativity to ensure this design looks closely as possible.==
+<------- This project is a replica of a static design image for foodie website, this replica has been developed and turned into a working website using HTML and CSS only.
+This project was carried out by the whole team, each contributing their level of creativity to ensure this design looks closely as possible. ------>
 
 
 
@@ -32,7 +32,7 @@ https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&p=f
 
 
 ========== HOW TO VIEW THE PROJECT ==========
-This project can be viewed locally.
+-----> This project can be viewed locally on browsers.
 
 
 
