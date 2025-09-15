@@ -1,29 +1,32 @@
 # PROJECT TITLE
-## FOODIE RESTAURANT
+### FOODIE RESTAURANT
 
 
 
-=========== PROJECT DESCRIPTION ============
-<------- This project is a replica of a static design image for foodie website, this replica has been developed and turned into a working website using HTML and CSS only.
-This project was carried out by the whole team, each contributing their level of creativity to ensure this design looks closely as possible. ------>
+# PROJECT DESCRIPTION 
+#### This project is a replica of a static design image for foodie website, this replica has been developed and turned into a working website using HTML and CSS only. This project was carried out by the whole team, each contributing their level of creativity to ensure this design looks closely as possible.
 
 
 
-=========== FINAL STATE SCREENSHOT ==========
-![alt text](<images/Foodie screenshot 1.png>)
-![alt text](<images/Foodie screenshot 2.png>)
-![alt text](<images/Foodie screenshot 3.png>)
-
-
-
-
-=========== FIGMA DESIGN IMAGE LINK ==============
-https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&p=f
+# FINAL STATE SCREENSHOT
+![First page](<img width="1911" height="924" alt="Image" src="https://github.com/user-attachments/assets/455bba2e-60e6-48fb-8cee-8b1f3c5a70a9" />)
+![Second page](<img width="1906" height="930" alt="Image" src="https://github.com/user-attachments/assets/c154ebe7-fcc3-420a-b104-8f9e978d37cf" />)
+![Third page](<img width="1900" height="922" alt="Image" src="https://github.com/user-attachments/assets/247ef010-23a1-4747-b287-3c5b0ca56736" />)
+![Fourth page](<img width="1908" height="927" alt="Image" src="https://github.com/user-attachments/assets/c89143f2-e07c-4e75-81c0-a65838bcff48" />)
+![Fifth page](<img width="1907" height="931" alt="Image" src="https://github.com/user-attachments/assets/4c9cf4f1-7732-45f0-89e4-3e92bdc4649b" />)
 
 
 
 
-=========== TEAM MEMBERS ===========
+
+
+# FIGMA DESIGN IMAGE LINK 
+#### https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&p=f
+
+
+
+
+# TEAM MEMBERS 
 1. IBRAHIM LUKMAN   --->
 2. OYEDOYIN SAMUEL  --->
 3. ADESINA MARIAM   --->
@@ -31,7 +34,7 @@ https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&p=f
 
 
 
-========== HOW TO VIEW THE PROJECT ==========
+# HOW TO VIEW THE PROJECT 
 -----> This project can be viewed locally on browsers.
 
 
