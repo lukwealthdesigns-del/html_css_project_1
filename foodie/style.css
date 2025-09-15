@@ -4,7 +4,9 @@
     
 }
 
-.main{
+
+/* ============ Header ============ */
+.header{
     width: 100;
     background-color: #1A1A1A;
     background-size: cover;
@@ -192,6 +194,11 @@ ul li a{
     margin-top: 30px;
 }
 
+
+
+
+
+/* ============== HERO SECTION =============== */
 .main2{
     height:auto;
     background-color: #111827;
@@ -731,6 +738,12 @@ ul li a{
 }
 
 
+
+
+
+
+
+/* ============ FOOTER =========== */
 .footer{
     margin:50px;
     
